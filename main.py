@@ -4,7 +4,7 @@ pygame.init()
 
 # Set up the drawing window
 screen = pygame.display.set_mode([300, 200])
-pth = r'C:\Users\rache\OneDrive\Documents\pixcel art\thing2.png'
+pth = r'C:\code\GitHub\PyGameTest\Background.png'
 bg = pygame.image.load(pth)
 
 
